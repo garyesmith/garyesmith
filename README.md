@@ -1,5 +1,5 @@
-## Hello
+## Welcome
 
-I'm a web developer in Toronto, Ontario, Canada. I'm open to freelance web development projects. 
+I'm a freelance web developer based in Toronto, Ontario, Canada.
 
-Visit my portfolio at [garysmith.ca](https://www.garysmith.ca) for more details. Thanks.
+Please visit [garysmith.ca](https://www.garysmith.ca) or my [https://www.linkedin.com/in/garyesmith/](LinkedIn) profile for more details about my skills and recent projects.
